@@ -1,6 +1,8 @@
 # Expense Tracker (MERN)
 
-> Full stack expense tracker
+## Full stack expense tracker
+> A full stack web application built using MongoDB, Node.js and React Js to track expenses and income.
+> ![image](https://github.com/IKPreethi/Expense-Tracker/assets/89572855/660e6a2f-c95b-4da2-841d-4530c2b7cdaa)
 
 ## Usage
 
